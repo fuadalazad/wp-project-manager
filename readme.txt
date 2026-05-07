@@ -238,6 +238,7 @@ A. If you face any issues, you can contact the support team through the official
 12. Stay updated on project progress
 13. Built-in invoice generator
 14. Manage projects from the frontend
+15. See Tasks on the Calendar
 
 == Changelog ==
 
