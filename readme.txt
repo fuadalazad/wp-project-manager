@@ -163,9 +163,10 @@ So still wondering why WP Project Manager should be your first choice in task ma
 👉 [Learn more about all the functions and features from our documentation.](https://wedevs.com/docs/wp-project-manager/)
 
 ### SEE HOW WP PROJECT MANAGER HAS BEEN RECOGNIZED BY THE TOP SITES
-1.  [Top 20 WordPress Plugins for Freelancers to Improve Their Workflow](https://colorlib.com/wp/freelance-plugins-wordpress/)
-2.  [9 Best WordPress Project Management Plugins](https://blog.hubspot.com/website/best-wordpress-project-management-plugins)
-3.  [Top 8 Project Management Plugins For WordPress](https://www.elegantthemes.com/blog/tips-tricks/top-8-project-management-plugins-for-wordpress)
+1.  [Top 13 WordPress Project Management Plugins and Tools to Use](https://kinsta.com/blog/wordpress-project-management-plugins/)
+2.  [Top 20 WordPress Plugins for Freelancers to Improve Their Workflow](https://colorlib.com/wp/freelance-plugins-wordpress/)
+3.  [9 Best WordPress Project Management Plugins](https://blog.hubspot.com/website/best-wordpress-project-management-plugins)
+4.  [Top 8 Project Management Plugins For WordPress](https://www.elegantthemes.com/blog/tips-tricks/top-8-project-management-plugins-for-wordpress)
 
 ## CONTRIBUTE
 If you think you can help develop this plugin even better then you are always more than welcome to contribute to this project. Please fork the repository from [GitHub](https://github.com/weDevsOfficial/wp-project-manager).
