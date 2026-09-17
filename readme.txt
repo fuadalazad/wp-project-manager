@@ -14,7 +14,7 @@ WP Project Manager simplifies tasks, projects & teamwork. Manage with Kanban boa
 == Description ==
 ### Best Project Management Tool for WordPress
 
-Being one of the most advanced project management and task management tools for WordPress, [WP Project Manager](https://wedevs.com/wp-project-manager-pro) has some exceptional features that turn your project management experience to the next level.
+Being one of the most advanced project management and task management tools for WordPress, [WP Project Manager](https://wedevs.com/wp-project-manager-pro) has some exceptional features that turn your project management experience to the next level
 
 Super-charge your productivity by creating, organizing, and assigning tasks within a few clicks.
 Its user-friendly interface and web-based task management feature enable the user to complete their to-dos quicker than ever.
